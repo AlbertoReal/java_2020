@@ -32,6 +32,11 @@ public static void ejercicio2(){
     boolean es_simetrica = true;
     for (int i = 0; i <4; i++){
         for (int j = 0; j <4; j++){
+            /*en este punto relleno la tabla para que sea asimetrica añado j,
+            al valor que se utiliza para crear una asimetrica
+            bastara con eliminarel (+j) para que la array se rellene 
+            con solo 1 de forma simetrica
+            */
             bidimensional[i][j]=1;
         }
     }while(es_simetrica==true){
