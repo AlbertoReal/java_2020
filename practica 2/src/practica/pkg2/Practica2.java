@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 /**
  *
- * @author Alumnat
+ * @author Alberto RealGomez
  */
 public class Practica2 {
 public static void ejercicio1(){
